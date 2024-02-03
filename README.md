@@ -1,6 +1,6 @@
 # Awesome onlyfans downloaders 
 
-List of awesome onlyfans downloaders which are free and easy to use
+List of awesome [onlyfans downloader](https://github.com/parvathi56/onlyfans-downloader/) which are free and easy to use
 
 ### [Hashirama](https://github.com/Hashirama) / [OFDL](https://github.com/Hashirama/OFDL)
 

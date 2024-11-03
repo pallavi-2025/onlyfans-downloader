@@ -15,7 +15,7 @@ A Python script that lets you scrape all the media from an OnlyFans account. All
 *   Updated Nov 06, 2023
 
 
-### [UniqueLogic](https://github.com/UniqueLogic) / [free-onlyfans-downloader](https://github.com/UniqueLogic/onlyfans-downloader) 
+### [pallavi-2025](https://github.com/pallavi-2025) / [free-onlyfans-downloader](https://github.com/pallavi-2025/free-onlyfans-downloader) 
 
 Chrome extension to download videos and photos from your onlyfans account for free. Supports downloading from posts, users and chats
 
